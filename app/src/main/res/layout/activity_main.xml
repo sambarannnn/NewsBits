@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     android:background="#000000"
     tools:context=".MainActivity">
-<!--    Kotlin android app to fetch and display news. Working with JSON parsing, HTTP networking threads, etc. WIP : UI elements-->
     <!--    <Button-->
 <!--        android:id="@+id/button"-->
 <!--        app:layout_constraintTop_toTopOf="parent"-->
